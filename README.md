@@ -1,8 +1,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://bit.ly/EWULink) 
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://bit.ly/EWUTwitter) 
 [<img src="https://img.shields.io/badge/portfolio-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" />](https://bit.ly/EWUPortfolio) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://bit.ly/EWUMedium))
-[<img src="https://img.shields.io/website/http/www.website.com/path/to/page.html.svg" />](https://bit.ly/EWUSite))
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://bit.ly/EWUMedium)
 
 <br>
 
